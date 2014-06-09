@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/bluetooth" android:title="Reconnect"></item>
+    <!--  <item android:id="@+id/btconnect" android:title="Bluetooth"></item> -->
+    <item android:id="@+id/mockdata" android:title="Use Phone Sensors" android:enabled="false" android:visible="false"></item>
+    <item android:id="@+id/upload" android:title="upload" android:enabled="false" android:visible="false"></item>
+    <item android:id="@+id/settings" android:title="Settings"></item>
+    <item android:id="@+id/reprocess" android:title="Reprocess" android:enabled="false" android:visible="false"></item>
+    <item android:id="@+id/share" android:title="Share"></item>
+</menu>

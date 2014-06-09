@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/settings_upload" android:title="Upload"></item>
+    <item android:id="@+id/settings_clear" android:title="Clear all data"></item>
+    <item android:id="@+id/settings_reprocess" android:title="Reprocess"></item>
+    
+
+</menu>

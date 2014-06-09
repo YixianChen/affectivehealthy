@@ -1,0 +1,2 @@
+set solib-search-path /Users/martinericsson/projects/personal/cts/ah/affectiveHealth/ah3/obj/local/armeabi
+directory /Users/martinericsson/local/android-sdk-mac_x86/android-ndk-r6b/platforms/android-8/arch-arm/usr/include /Users/martinericsson/projects/personal/cts/ah/affectiveHealth/ah3/jni/../jni/.. /Users/martinericsson/local/android-sdk-mac_x86/android-ndk-r6b/sources/cxx-stl/system
